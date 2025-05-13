@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/HUISOSNYA/Dupe-script/refs/heads/main/Yup
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kosowa/asd/refs/heads/main/GaG.lua"))()
